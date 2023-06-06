@@ -19,4 +19,4 @@ https://github.com/raytruong/polybar-cmus
 ### Images
 #### Sway
 Simple sway without compositor
-![sway-rice](./assets/Fullpng)
+![sway-rice](./assets/Full.png)
