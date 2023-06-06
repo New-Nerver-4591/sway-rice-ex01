@@ -28,20 +28,17 @@ scheme
 2. For waybar was added (custom/cmus) module, that
 was copied with minor changes for waybar:
 https://github.com/raytruong/polybar-cmus
-
 To use this module, you have to copy cmus.sh script
 in waybar config directory.
 
 3. For wallpaper I used swaybg and swww utility.
 
+4. Cava made adjustments to gradient color.
+
 ///UPD
 Polished configuration files
 that you could refine it on your systems
 Enjoy.
-
-### raytruong
-Bash script that fetches all needed paramaters from cmus-remote.
-https://github.com/raytruong/polybar-cmus
 
 ### Images
 #### Sway
