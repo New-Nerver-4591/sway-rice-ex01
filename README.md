@@ -33,11 +33,13 @@ in waybar config directory.
 
 3. For wallpaper I used swaybg and swww utility.
 
-4. Cava made adjustments to gradient color.
+4. Cava - made adjustments to gradient color.
+
+5. Font used in Waybar and terminal is monofur.
 
 ///UPD
 Polished configuration files
-that you could refine it on your systems
+that you could refine it on your systems.
 Enjoy.
 
 ### Images
